@@ -77,7 +77,7 @@ I am currently focused on building my skills in cloud computing and cybersecurit
 ## 📫 Let's Connect
 
 - 📧 Email: gerron.cudjoe03@gmail.com  
-- 🔗 LinkedIn: [*(Gerron (Darren) Cudjoe)*  ](https://www.linkedin.com/in/gerron-cudjoe-aa016b273/)
+- 🔗 LinkedIn: [*(Gerron Cudjoe)*  ](https://www.linkedin.com/in/gerron-cudjoe-aa016b273/)
 
 ---
 
