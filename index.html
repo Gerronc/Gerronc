@@ -2,62 +2,149 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Gerron Cudjoe Portfolio</title>
+  <title>Gerron Cudjoe | Cloud Security Engineer</title>
+
   <style>
     body {
-      font-family: Arial;
       margin: 0;
-      background: #0f172a;
-      color: white;
+      font-family: 'Segoe UI', sans-serif;
+      background: #020617;
+      color: #e2e8f0;
     }
+
     header {
       text-align: center;
-      padding: 60px;
+      padding: 100px 20px;
+      background: linear-gradient(135deg, #020617, #0f172a);
     }
+
+    header h1 {
+      font-size: 3rem;
+      margin-bottom: 10px;
+    }
+
+    header p {
+      font-size: 1.3rem;
+      color: #38bdf8;
+    }
+
     section {
-      padding: 40px;
-      max-width: 800px;
+      max-width: 900px;
       margin: auto;
+      padding: 50px 20px;
     }
+
+    h2 {
+      color: #38bdf8;
+      margin-bottom: 20px;
+      border-bottom: 1px solid #1e293b;
+      padding-bottom: 10px;
+    }
+
+    .projects {
+      display: grid;
+      gap: 20px;
+    }
+
     .project {
-      background: #1e293b;
+      background: #0f172a;
       padding: 20px;
-      margin: 10px 0;
-      border-radius: 10px;
+      border-radius: 12px;
+      border: 1px solid #1e293b;
+      transition: 0.3s;
+    }
+
+    .project:hover {
+      transform: translateY(-5px);
+      border-color: #38bdf8;
+    }
+
+    .skills span {
+      display: inline-block;
+      background: #0f172a;
+      border: 1px solid #1e293b;
+      padding: 8px 12px;
+      margin: 5px;
+      border-radius: 8px;
+      font-size: 0.9rem;
+    }
+
+    footer {
+      text-align: center;
+      padding: 30px;
+      color: #64748b;
     }
   </style>
+
 </head>
 <body>
 
 <header>
   <h1>Gerron Cudjoe</h1>
-  <p>IT Student | Cloud & DevOps Enthusiast</p>
+  <p>Aspiring Cloud Security Engineer</p>
 </header>
 
 <section>
   <h2>About Me</h2>
-  <p>I am an IT student at St. George’s University with a passion for cloud computing, DevOps, and cybersecurity.</p>
+  <p>
+    I am an IT student at St. George’s University with a strong focus on cloud security and cybersecurity. 
+    I enjoy building and securing cloud-based systems using AWS, Docker, and Linux. 
+    My goal is to design secure, scalable infrastructure and protect applications in cloud environments.
+  </p>
 </section>
 
 <section>
   <h2>Projects</h2>
+  <div class="projects">
 
-  <div class="project">
-    <h3>Django Deployment Project</h3>
-    <p>Deployed a Django app using AWS EC2 and Gunicorn.</p>
+    <div class="project">
+      <h3>🔐 Secure Django Deployment on AWS</h3>
+      <p>
+        Deployed a Django application on AWS EC2 with security best practices, including SSH hardening,
+        firewall configuration, and secure environment variables.
+      </p>
+    </div>
+
+    <div class="project">
+      <h3>⚙️ CI/CD Pipeline with Security Integration</h3>
+      <p>
+        Built a CI/CD pipeline using Jenkins and Docker with secure deployment practices,
+        controlled access, and automated builds.
+      </p>
+    </div>
+
   </div>
+</section>
 
-  <div class="project">
-    <h3>CI/CD Pipeline</h3>
-    <p>Built a pipeline using Jenkins, Docker, and GitHub.</p>
+<section>
+  <h2>Skills</h2>
+  <div class="skills">
+    <span>AWS</span>
+    <span>Linux</span>
+    <span>Docker</span>
+    <span>Jenkins</span>
+    <span>Networking</span>
+    <span>Firewall Configuration</span>
+    <span>SSH Security</span>
   </div>
+</section>
 
+<section>
+  <h2>Security Focus</h2>
+  <p>
+    Focused on securing cloud infrastructure through system hardening, access control,
+    and network security. Continuously learning best practices for protecting cloud environments.
+  </p>
 </section>
 
 <section>
   <h2>Contact</h2>
   <p>Email: your@email.com</p>
 </section>
+
+<footer>
+  <p>© 2026 Gerron Cudjoe</p>
+</footer>
 
 </body>
 </html>
