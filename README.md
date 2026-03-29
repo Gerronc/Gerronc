@@ -13,16 +13,6 @@
   - Deployed DHCP services and implemented DHCP relay (`ip helper-address`)
   - Performed end-to-end connectivity testing and troubleshooting  
 
-- <b>Cloud Security Labs (Google Cloud)</b>
-  - Configured virtual machines and firewall rules
-  - Implemented IAM roles and access control policies
-  - Monitored logs and analyzed security events  
-
-- <b>IT Infrastructure & Support (Hands-on Experience)</b>
-  - Provided technical support in business environments
-  - Installed and configured systems, networks, and applications
-  - Diagnosed and resolved hardware, software, and network issues  
-
 ---
 
 <h2>🛠️ Technical Skills</h2>
@@ -75,4 +65,3 @@
 
 ---
 
-⭐ <i>"Always learning, always building."</i>
