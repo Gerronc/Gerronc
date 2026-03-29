@@ -8,6 +8,8 @@
 <h2>☁️🔐 Cloud & Cybersecurity Projects:</h2>
 
 - <b>[Enterprise Network Configuration Lab](https://github.com/Gerronc/Enterprise-Network-Design-Configuration-Cisco-Lab-) (Cisco)</b>
+- <b>[CI/CD Pipeline Deployment Using AWS, Jenkins & Docker](https://github.com/Gerronc/CI-CD-Pipeline-Deployment-Using-AWS-Jenkins-Docker) </b>
+ 
  
 ---
 
