@@ -7,12 +7,8 @@
 
 <h2>☁️🔐 Cloud & Cybersecurity Projects:</h2>
 
-- <b>Enterprise Network Configuration Lab (Cisco)</b>
-  - Designed and implemented VLAN-based network segmentation
-  - Configured inter-VLAN routing using Layer 3 switch (SVIs)
-  - Deployed DHCP services and implemented DHCP relay (`ip helper-address`)
-  - Performed end-to-end connectivity testing and troubleshooting  
-
+- <b>[Enterprise Network Configuration Lab](https://github.com/Gerronc/Enterprise-Network-Design-Configuration-Cisco-Lab-) (Cisco)</b>
+ 
 ---
 
 <h2>🛠️ Technical Skills</h2>
