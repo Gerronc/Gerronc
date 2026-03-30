@@ -47,7 +47,7 @@
 - Hands-on Labs & System Building  
 - Basketball  
 - Music  
-- Christian Theology  
+
 
 ---
 
