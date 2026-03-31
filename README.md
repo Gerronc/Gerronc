@@ -15,10 +15,10 @@
 
 <h2>🛠️ Technical Skills</h2>
 
+- <b>Cloud:</b> AWS (Hands-on Labs)
+- <b>Cybersecurity:</b> Network Security, System Security, Threat Analysis  
 - <b>Networking:</b> VLANs, IP Addressing, DHCP, Access Points, Cabling  
 - <b>Systems:</b> Windows OS, Hardware Troubleshooting, System Setup  
-- <b>Cloud:</b> AWS (Hands-on Labs)  
-- <b>Cybersecurity:</b> Network Security, System Security, Threat Analysis  
 - <b>Tools:</b> Cisco CLI, Remote Support Tools  
 
 ---
