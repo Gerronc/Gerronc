@@ -26,7 +26,7 @@
 <h2>📚 Currently Learning</h2>
 
 - Cloud Security (IAM, Monitoring, Firewalls)
-- Deploting Instances with Terraform
+- Deploying Instances with Terraform
 - Advanced Networking & Infrastructure  
 - Security Tools & Threat Detection  
 - Building Real-World Cloud Projects
