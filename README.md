@@ -60,7 +60,7 @@
 
 <br/><br/>
 
-[linkedin]: https://linkedin.com/in/YOUR-LINK-HERE  
+[linkedin]: https://www.linkedin.com/in/gerron-cudjoe-aa016b273/  
 [github]: https://github.com/Gerronc  
 
 ---
