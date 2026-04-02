@@ -9,7 +9,7 @@
 
 - <b>[Enterprise Network Configuration Lab (Cisco)](https://github.com/Gerronc/Enterprise-Network-Design-Configuration-Cisco-Lab-) </b>
 - <b>[CI/CD Pipeline Deployment Using AWS, Jenkins & Docker](https://github.com/Gerronc/CI-CD-Pipeline-Deployment-Using-AWS-Jenkins-Docker) </b>
-- <b>[Aws-Vpc-Infrastructure-Terraform](https://github.com/Gerronc/Terraform-AWS-Lab-launch-EC2-Instance-) </b>
+- <b>[AWS VPC Infrastructure (Terraform)](https://github.com/Gerronc/Terraform-AWS-Lab-launch-EC2-Instance-) </b>
  
  
 ---
