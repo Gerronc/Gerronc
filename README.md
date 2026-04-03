@@ -22,7 +22,7 @@
 - <b>Infrastructure as Code:</b> Terraform
 - <b>DevOps & CI/CD:</b> Jenkins, Docker, GitHub
 - <b>SIEM & Security Tools:</b> Wazuh, Log Analysis, Threat Detection
-- <b>Cybersecurity:</b> Network Security, System Security, Vulnerability Assessment
+- <b>Cybersecurity:</b> Network Security, System Security
 - <b>Networking:</b> VLANs, IP Addressing, DHCP, Subnetting, Access Points, Cabling
 - <b>Systems:</b> Windows OS, Linux (Command Line), Hardware Troubleshooting
 - <b>Tools:</b> Cisco CLI, Remote Support Tools
