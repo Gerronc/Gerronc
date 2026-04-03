@@ -9,7 +9,7 @@
 
 - <b>[AWS VPC Infrastructure as Code Lab(Terraform)](https://github.com/Gerronc/Terraform-AWS-Lab-launch-EC2-Instance-) </b>
 - <b>[Enterprise Network Configuration Lab (Cisco)](https://github.com/Gerronc/Enterprise-Network-Design-Configuration-Cisco-Lab-) </b>
-- <b>[Wazuh Log Management (Azure)(](https://github.com/Gerronc/cloud-siem-wazuh-azure) </b>
+- <b>[Wazuh Log Management (Azure)](https://github.com/Gerronc/cloud-siem-wazuh-azure) </b>
 - <b>[CI/CD Pipeline Deployment Using AWS, Jenkins & Docker](https://github.com/Gerronc/CI-CD-Pipeline-Deployment-Using-AWS-Jenkins-Docker) </b>
 
 
