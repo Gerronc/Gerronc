@@ -18,18 +18,20 @@
 
 <h2>🛠️ Technical Skills</h2>
 
-- <b>Cloud:</b> AWS (Hands-on Labs)
-- <b>Cybersecurity:</b> Network Security, System Security, Threat Analysis  
-- <b>Networking:</b> VLANs, IP Addressing, DHCP, Access Points, Cabling  
-- <b>Systems:</b> Windows OS, Hardware Troubleshooting, System Setup  
-- <b>Tools:</b> Cisco CLI, Remote Support Tools  
+- <b>Cloud:</b> AWS (EC2, VPC, IAM, S3), Azure (Virtual Machines, Networking)
+- <b>Infrastructure as Code:</b> Terraform
+- <b>DevOps & CI/CD:</b> Jenkins, Docker, GitHub
+- <b>SIEM & Security Tools:</b> Wazuh, Log Analysis, Threat Detection
+- <b>Cybersecurity:</b> Network Security, System Security, Vulnerability Assessment
+- <b>Networking:</b> VLANs, IP Addressing, DHCP, Subnetting, Access Points, Cabling
+- <b>Systems:</b> Windows OS, Linux (Command Line), Hardware Troubleshooting
+- <b>Tools:</b> Cisco CLI, Remote Support Tools
 
 ---
 
 <h2>📚 Currently Learning</h2>
 
 - Cloud Security (IAM, Monitoring, Firewalls)
-- Deploying Instances with Terraform
 - Advanced Networking & Infrastructure  
 - Security Tools & Threat Detection  
 - Building Real-World Cloud Projects
