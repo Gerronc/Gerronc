@@ -7,6 +7,7 @@
 
 <h2>☁️🔐 Cloud & Cybersecurity Projects:</h2>
 
+- <b>[SSH Honeypot + SIEM Integration Lab](https://github.com/Gerronc/SSH-Honeypot-SIEM-Integration-Lab) </b>
 - <b>[AWS VPC Infrastructure as Code Lab(Terraform)](https://github.com/Gerronc/Terraform-AWS-Lab-launch-EC2-Instance-) </b>
 - <b>[CI/CD Pipeline Deployment Using AWS, Jenkins & Docker](https://github.com/Gerronc/CI-CD-Pipeline-Deployment-Using-AWS-Jenkins-Docker) </b>
 - <b>[Wazuh SIEM (Azure)](https://github.com/Gerronc/cloud-siem-wazuh-azure) </b>
